@@ -18,20 +18,12 @@ Implement MLP-based non-linear regression with a dynamic Early Stopping mechanis
 
 <img src="04_Prediction_Accuracy.png" alt="Teaser: Prediction Accuracy" width="800">
 
-## Requirements
-
-To install the required computational stack:
-
-```setup
-python -m pip install -r requirements.txt
-````
-
 ## Running
 
 To run the feature evaluation and basic neural network training, execute:
 
 ```basic
-python main.py
+python homework1.ipynb
 ```
 
 ## Results
